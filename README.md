@@ -1,11 +1,8 @@
-<div>
-  <p> CONDOMÍNIO </p>
-  <p> CHAMBER OF SECRETS </p>
-</div>
+![image](https://user-images.githubusercontent.com/53832972/211227826-ba9b0a5a-0baf-4b51-87d3-726d28e33eaa.png)
 
 #
 
-<p> Este é um desafio feito pela  📌 [InfoIdeias](https://www.midasmais.com.br) </p>
+Este é um desafio feito pela  📌 [InfoIdeias](https://www.midasmais.com.br)
 <p> 
   O objetivo era criar um banner, no formato desktop e mobile, para uma empresa de imobiliária.
 </p>
@@ -35,6 +32,8 @@
 </div>
 
 #
+
+💻 Visite o site por [aqui](https://paolaguedes.github.io/fase2_infoideias/FORMULÁRIOS/)
 
 <p> Espero que gostem :) </p>
 
